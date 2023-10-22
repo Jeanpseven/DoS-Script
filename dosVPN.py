@@ -33,7 +33,7 @@ print()
 print("Author   : Wrench")
 print("Instagram : @jeanseven")
 print("github   : https://github.com/Jeanpseven")
-print("USE VPN ou PROXY (recommended:https://github.com/Jeanpseven/Dr4xVPN)")
+print("[+] https://github.com/Jeanpseven/Dr4xVPN activated")
 print()
 
 # Solicitar o alvo (pode ser um IP ou URL)
