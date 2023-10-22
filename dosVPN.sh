@@ -25,7 +25,7 @@ echo
 echo "Author   : Wrench"
 echo "Instagram : @jeanseven"
 echo "github   : https://github.com/Jeanpseven"
-echo "USE VPN ou PROXY (recommended:https://github.com/Jeanpseven/Dr4xVPN)"
+echo "[+] https://github.com/Jeanpseven/Dr4xVPN activated"
 echo
 echo "Este script permite usar um IP ou uma URL como alvo."
 echo
