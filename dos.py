@@ -19,6 +19,7 @@ print
 print "Author   : Wrench"
 print "Instagram : @jeanseven"
 print "github   : https://github.com/Jeanpseven"
+print "USE VPN ou PROXY (recommended:https://github.com/Jeanpseven/Dr4xVPN"
 print  
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
